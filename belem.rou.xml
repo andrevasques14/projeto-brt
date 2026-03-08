@@ -1,0 +1,7 @@
+<routes>
+    <vType id="brt" accel="1.0" decel="4.5" sigma="0.5" length="12.0" minGap="2.5" maxSpeed="16.67" guiShape="bus" color="yellow"/>
+    
+    <route id="rota1" edges="g0to1"/>
+    
+    <flow id="bus" type="brt" begin="0" number="10" period="10" from="g0to1" to="g0to1" departPos="base" departLane="best"/>
+</routes> 
