@@ -1,0 +1,6 @@
+<configuration>
+    <input>
+        <net-file value="belem.net.xml"/>
+        <route-files value="belem.rou.xml"/>
+    </input>
+</configuration>
