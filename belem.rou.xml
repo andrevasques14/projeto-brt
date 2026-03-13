@@ -3,5 +3,5 @@
     
     <route id="rota1" edges="g0to1"/>
     
-    <flow id="bus" type="brt" begin="0" number="10" period="10" from="g0to1" to="g0to1" departPos="base" departLane="best"/>
+    <flow id="B67" type="brt" begin="0" number="10" period="10" from="g0to1" to="g0to1" departPos="base" departLane="best"/>
 </routes> 
